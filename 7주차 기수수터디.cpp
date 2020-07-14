@@ -29,6 +29,7 @@ int main() {
 
 		//copy(list, list + 100, list2);
 		//memcmp(list,list2,sizeof(list);
+		//list2에 list를 넣고 swap으로 list의 첫번째 자리의 값과 최소값을 바꾼 후 반복문을 돌리면 list와 list2가 다른 배열이므로 반복문을 종료하도록..하고 싶었음..
 
 
 
